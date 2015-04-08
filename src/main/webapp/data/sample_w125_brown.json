@@ -1,0 +1,36 @@
+{
+    "competitors" : [
+        {
+            "id": 100,
+            "name": "Adelita",
+            "rank": "purple",
+            "weight": 125,
+            "team": "Gracie Barra",
+            "elo": 1500
+        },
+        {
+            "id": 101,
+            "name": "Mckenna",
+            "rank": "purple",
+            "weight": 125,
+            "team": "Alliance",
+            "elo": 1500
+        },
+        {
+            "id": 102,
+            "name": "Tyra",
+            "rank": "purple",
+            "weight": 125,
+            "team": "Atos",
+            "elo": 1500
+        },
+        {
+            "id": 107,
+            "name": "Talita",
+            "rank": "purple",
+            "weight": 125,
+            "team": "GF Team",
+            "elo": 1500
+        }
+    ]
+}
